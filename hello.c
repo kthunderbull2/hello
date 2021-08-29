@@ -12,7 +12,9 @@
 /* main function */
 int main(int argC, char **argV)
 {
-    printf("Kade ThunderBull!\n");
+    printf("Name: Kade ThunderBull\n");
+
+    printf("Major: Computer Science\n");
 
     return 0;
 }
